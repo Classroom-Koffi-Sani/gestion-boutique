@@ -1,6 +1,12 @@
 # Gestion-boutique
 Application de gestion des ventes d'une boutique
 
+## Membres du groupe
+- ALI
+- BRUCE Koami
+- KELOUFAI
+- OURO
+
 ## Objectif
 Nous souhaitons nous doter d'une application permettant au boutiquier d'Avedji de suivre convenablement ses activités commericiales.
 
